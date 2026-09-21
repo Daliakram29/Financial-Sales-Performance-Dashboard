@@ -1,7 +1,7 @@
-# sales-performance-decisions dashboard
+# Financial Sales Performance Dashboard
 Interactive Power BI dashboard analyzing sales performance, profit trends, and segment distribution across multiple countries and product lines.
 Dataset
-Based on a sample financial dataset covering 2013–2014 across 5 countries (Canada, France, Germany, Mexico, and the United States).
+Based on a sample financial dataset covering 2013–2014 across five countries (Canada, France, Germany, Mexico, and the United States).
 
 # Key Features
 - KPI overview — $118.73M Total Sales, $16.89M Total Profit, 14.23% Profit Margin, 349.46% YoY Growth
