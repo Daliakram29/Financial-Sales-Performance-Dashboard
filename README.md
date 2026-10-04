@@ -8,6 +8,9 @@ The dashboard helps answer the following business questions:
 - How are discount levels related to profit margins?
 - Which countries generate the highest sales and profit?
 - How do sales and profit change over time?
+## Dashboard
+
+<img src="Executive Overview.jpg" width="900">
 
 # Dataset
 The project uses the Microsoft Financial Sample dataset.
