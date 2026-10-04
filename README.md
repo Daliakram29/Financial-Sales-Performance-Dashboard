@@ -10,7 +10,7 @@ The dashboard helps answer the following business questions:
 - How do sales and profit change over time?
 ## Dashboard
 
-<img src="Executive Overview.jpg" width="900">
+<img src="Executive_Overview_dashboard.jpg" width="900">
 
 # Dataset
 The project uses the Microsoft Financial Sample dataset.
